@@ -3,7 +3,7 @@ a website that lets patients boook appointment, check services, talk to doctors
 
 ## interface
 - home page
-![Alt Text](images/Screenshot%202024-09-11%20011328.png)
+![Alt Text](images/homepage.png)
 
 ## technologies used
 - HTML
